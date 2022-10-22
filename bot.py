@@ -21,7 +21,7 @@ User = Client(name="user-account",
               session_string=SESSION,
               api_id=API_ID,
               api_hash=API_HASH,
-              workers=3600
+              workers=1800
               )
 
 
@@ -29,7 +29,7 @@ Bot = Client(name="auto-delete",
              api_id=API_ID,
              api_hash=API_HASH,
              bot_token=BOT_TOKEN,
-             workers=3600
+             workers=1800
              )
 
 
