@@ -35,7 +35,7 @@
     },
     "TIME": {
       "description": "Time in seconds",
-      "value": "1800"
+      "value": "300"
     }
   },
   "buildpacks": [
